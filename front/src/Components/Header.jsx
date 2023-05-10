@@ -1,9 +1,9 @@
-import './Header.css'
+import '../css/index.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function Header() {
     return (
-        <h1>correcto</h1>
+        <h1 className="text-danger">correcto</h1>
     )
     
 }
