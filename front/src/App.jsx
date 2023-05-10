@@ -1,6 +1,6 @@
-import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
-import Header from './Components/Header/Header'
+import Header from './Components/Header'
+import Sidebar from './Components/Sidebar'
 
 function App() {
     return (
