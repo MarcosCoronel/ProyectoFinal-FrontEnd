@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom"
 
+import { Link } from "react-router-dom"
 
 function NotFound() {
     return (
@@ -8,7 +8,6 @@ function NotFound() {
         <Link to="/">Volver</Link>
         </>
     )
-    
 }
 
 export default NotFound
