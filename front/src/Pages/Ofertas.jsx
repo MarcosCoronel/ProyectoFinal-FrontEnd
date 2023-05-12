@@ -1,8 +1,7 @@
-
-
 function Ofertas() {
-    return
-    
+    return (
+        <></>
+    )
 }
 
 export default Ofertas

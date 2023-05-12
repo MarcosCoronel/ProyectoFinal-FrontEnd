@@ -1,6 +1,8 @@
 function Contacto() {
-    return
-    
+
+    return (
+        <></>
+    )
 }
 
 export default Contacto

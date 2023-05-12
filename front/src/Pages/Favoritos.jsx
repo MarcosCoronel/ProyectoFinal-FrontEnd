@@ -1,6 +1,8 @@
 function Favoritos() {
-    return
-    
+    return (
+        <></>
+    )
+
 }
 
 export default Favoritos
