@@ -1,12 +1,11 @@
 import '../css/index.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
-
-function Header() {
+function Footer() {
     return (
-        <h1 className="text-danger">correcto</h1>
+        <h1></h1>
     )
     
 }
 
-export default Header
+export default Footer
